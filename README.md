@@ -32,8 +32,8 @@ yarn
 yarn run dev
 
 # ScreenShots
-Home Page:
-Add Restaurant Page:
-Order Online Page:
-User Profile Page:
-Hotel Order Page:
+1. Home Page
+2. Add Restaurant Page
+3. Order Online Page
+4. User Profile Page
+5. Hotel Order Page
